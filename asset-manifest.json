@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/AnimeList/static/css/main.11b8e04f.chunk.css",
-    "main.js": "/AnimeList/static/js/main.aef2024f.chunk.js",
-    "main.js.map": "/AnimeList/static/js/main.aef2024f.chunk.js.map",
-    "runtime-main.js": "/AnimeList/static/js/runtime-main.e8410bba.js",
-    "runtime-main.js.map": "/AnimeList/static/js/runtime-main.e8410bba.js.map",
+    "main.css": "/AnimeList/static/css/main.8710e37b.chunk.css",
+    "main.js": "/AnimeList/static/js/main.47807403.chunk.js",
+    "main.js.map": "/AnimeList/static/js/main.47807403.chunk.js.map",
+    "runtime-main.js": "/AnimeList/static/js/runtime-main.fa95ea34.js",
+    "runtime-main.js.map": "/AnimeList/static/js/runtime-main.fa95ea34.js.map",
     "static/css/2.150d169a.chunk.css": "/AnimeList/static/css/2.150d169a.chunk.css",
-    "static/js/2.05f28dbb.chunk.js": "/AnimeList/static/js/2.05f28dbb.chunk.js",
-    "static/js/2.05f28dbb.chunk.js.map": "/AnimeList/static/js/2.05f28dbb.chunk.js.map",
-    "static/js/3.63e13ed0.chunk.js": "/AnimeList/static/js/3.63e13ed0.chunk.js",
-    "static/js/3.63e13ed0.chunk.js.map": "/AnimeList/static/js/3.63e13ed0.chunk.js.map",
+    "static/js/2.4f868c53.chunk.js": "/AnimeList/static/js/2.4f868c53.chunk.js",
+    "static/js/2.4f868c53.chunk.js.map": "/AnimeList/static/js/2.4f868c53.chunk.js.map",
+    "static/js/3.8cc39522.chunk.js": "/AnimeList/static/js/3.8cc39522.chunk.js",
+    "static/js/3.8cc39522.chunk.js.map": "/AnimeList/static/js/3.8cc39522.chunk.js.map",
     "index.html": "/AnimeList/index.html",
     "static/css/2.150d169a.chunk.css.map": "/AnimeList/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.11b8e04f.chunk.css.map": "/AnimeList/static/css/main.11b8e04f.chunk.css.map",
-    "static/js/2.05f28dbb.chunk.js.LICENSE.txt": "/AnimeList/static/js/2.05f28dbb.chunk.js.LICENSE.txt",
+    "static/css/main.8710e37b.chunk.css.map": "/AnimeList/static/css/main.8710e37b.chunk.css.map",
+    "static/js/2.4f868c53.chunk.js.LICENSE.txt": "/AnimeList/static/js/2.4f868c53.chunk.js.LICENSE.txt",
     "static/media/App.css": "/AnimeList/static/media/fondo.90150f48.jpg",
     "static/media/loading.7932c498.gif": "/AnimeList/static/media/loading.7932c498.gif",
     "static/media/logo.7ce16813.png": "/AnimeList/static/media/logo.7ce16813.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8410bba.js",
+    "static/js/runtime-main.fa95ea34.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.05f28dbb.chunk.js",
-    "static/css/main.11b8e04f.chunk.css",
-    "static/js/main.aef2024f.chunk.js"
+    "static/js/2.4f868c53.chunk.js",
+    "static/css/main.8710e37b.chunk.css",
+    "static/js/main.47807403.chunk.js"
   ]
 }
