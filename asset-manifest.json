@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/AnimeList/static/css/main.886acfcc.chunk.css",
-    "main.js": "/AnimeList/static/js/main.e0daf556.chunk.js",
-    "main.js.map": "/AnimeList/static/js/main.e0daf556.chunk.js.map",
-    "runtime-main.js": "/AnimeList/static/js/runtime-main.fa95ea34.js",
-    "runtime-main.js.map": "/AnimeList/static/js/runtime-main.fa95ea34.js.map",
-    "static/css/2.150d169a.chunk.css": "/AnimeList/static/css/2.150d169a.chunk.css",
-    "static/js/2.4f868c53.chunk.js": "/AnimeList/static/js/2.4f868c53.chunk.js",
-    "static/js/2.4f868c53.chunk.js.map": "/AnimeList/static/js/2.4f868c53.chunk.js.map",
-    "static/js/3.8cc39522.chunk.js": "/AnimeList/static/js/3.8cc39522.chunk.js",
-    "static/js/3.8cc39522.chunk.js.map": "/AnimeList/static/js/3.8cc39522.chunk.js.map",
-    "index.html": "/AnimeList/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/AnimeList/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.886acfcc.chunk.css.map": "/AnimeList/static/css/main.886acfcc.chunk.css.map",
-    "static/js/2.4f868c53.chunk.js.LICENSE.txt": "/AnimeList/static/js/2.4f868c53.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/AnimeList/static/media/fondo.90150f48.jpg",
-    "static/media/loading.7932c498.gif": "/AnimeList/static/media/loading.7932c498.gif",
-    "static/media/logo.7ce16813.png": "/AnimeList/static/media/logo.7ce16813.png"
+    "main.css": "/react-dash/static/css/main.e38ef624.chunk.css",
+    "main.js": "/react-dash/static/js/main.c6e9430b.chunk.js",
+    "main.js.map": "/react-dash/static/js/main.c6e9430b.chunk.js.map",
+    "runtime-main.js": "/react-dash/static/js/runtime-main.27723b46.js",
+    "runtime-main.js.map": "/react-dash/static/js/runtime-main.27723b46.js.map",
+    "static/css/2.0b4c5464.chunk.css": "/react-dash/static/css/2.0b4c5464.chunk.css",
+    "static/js/2.e29cc306.chunk.js": "/react-dash/static/js/2.e29cc306.chunk.js",
+    "static/js/2.e29cc306.chunk.js.map": "/react-dash/static/js/2.e29cc306.chunk.js.map",
+    "static/js/3.0808110b.chunk.js": "/react-dash/static/js/3.0808110b.chunk.js",
+    "static/js/3.0808110b.chunk.js.map": "/react-dash/static/js/3.0808110b.chunk.js.map",
+    "index.html": "/react-dash/index.html",
+    "static/css/2.0b4c5464.chunk.css.map": "/react-dash/static/css/2.0b4c5464.chunk.css.map",
+    "static/css/main.e38ef624.chunk.css.map": "/react-dash/static/css/main.e38ef624.chunk.css.map",
+    "static/js/2.e29cc306.chunk.js.LICENSE.txt": "/react-dash/static/js/2.e29cc306.chunk.js.LICENSE.txt",
+    "static/media/avatar.4670a339.jpg": "/react-dash/static/media/avatar.4670a339.jpg",
+    "static/media/product.2e0c9e7a.png": "/react-dash/static/media/product.2e0c9e7a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa95ea34.js",
-    "static/css/2.150d169a.chunk.css",
-    "static/js/2.4f868c53.chunk.js",
-    "static/css/main.886acfcc.chunk.css",
-    "static/js/main.e0daf556.chunk.js"
+    "static/js/runtime-main.27723b46.js",
+    "static/css/2.0b4c5464.chunk.css",
+    "static/js/2.e29cc306.chunk.js",
+    "static/css/main.e38ef624.chunk.css",
+    "static/js/main.c6e9430b.chunk.js"
   ]
 }
